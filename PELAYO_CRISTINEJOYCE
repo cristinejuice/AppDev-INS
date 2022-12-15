@@ -5,7 +5,7 @@ public class MyCsharp
 	public static void Main(string[] args)
 	{
 		MyCsharp cristine = new MyCsharp();
-		cristine.printName("Cristine Joyce Pelayo");
+		cristine.printName("Cristine Joyce G. Pelayo");
 	}
 	
 	public void printName(string name)
